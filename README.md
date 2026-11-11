@@ -1,8 +1,5 @@
-![BERK – Obsidian / Bronze](assets/berk-header.png)
 
-# Mustafa Berk
-
-**Hybrid Expert — Logistics Excellence | IT Consulting**  
+**Hybrid Expert — Logistics Excellence 
 *Operational Digitalization · SCM Transformation · Aviation · Automotive*
 
 I bridge the gap between **real-world operations and software engineering**. With more than two decades of experience in logistics and operational leadership, I focus on making complex processes simpler, more transparent, and digitally controllable.
