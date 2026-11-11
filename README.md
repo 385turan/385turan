@@ -30,5 +30,3 @@ Explore my work in the [repositories](https://github.com/385turan?tab=repositori
 ---
 
 **Intelligence is nothing without control.**
-
-[Website](https://mustafaberk.com) · [GitHub](https://github.com/385turan) · [Email](mailto:berk.mustafa@outlook.de)
